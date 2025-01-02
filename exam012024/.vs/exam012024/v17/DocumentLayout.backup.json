@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\exam012024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80667C3C-79F1-476B-BF66-310A69E86C89}|..\\back\\back.csproj|c:\\users\\ecole - dania\\desktop\\net\\revisions\\exam\\back\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80667C3C-79F1-476B-BF66-310A69E86C89}|..\\back\\back.csproj|c:\\users\\ecole - dania\\desktop\\net\\revisions\\exam\\back\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80667C3C-79F1-476B-BF66-310A69E86C89}|..\\back\\back.csproj|c:\\users\\ecole - dania\\desktop\\net\\revisions\\exam\\back\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80667C3C-79F1-476B-BF66-310A69E86C89}|..\\back\\back.csproj|c:\\users\\ecole - dania\\desktop\\net\\revisions\\exam\\back\\repositories\\unitofworkschoolsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80667C3C-79F1-476B-BF66-310A69E86C89}|..\\back\\back.csproj|c:\\users\\ecole - dania\\desktop\\net\\revisions\\exam\\back\\repositories\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Entities\\SchoolContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80667C3C-79F1-476B-BF66-310A69E86C89}|..\\back\\back.csproj|c:\\users\\ecole - dania\\desktop\\net\\revisions\\exam\\back\\back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80667C3C-79F1-476B-BF66-310A69E86C89}|..\\back\\back.csproj|c:\\users\\ecole - dania\\desktop\\net\\revisions\\exam\\back\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B683E1-0F2F-4A0C-868A-D9E018883718}|exam012024.csproj|c:\\users\\ecole - dania\\desktop\\net\\revisions\\exam\\exam012024\\viewmodels\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B683E1-0F2F-4A0C-868A-D9E018883718}|exam012024.csproj|solutionrelative:viewmodels\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "..\\back\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "..\\back\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T00:10:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "..\\back\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Entities\\Student.cs",
+              "RelativeToolTip": "..\\back\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T00:08:45.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "..\\back\\DTO\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "..\\back\\DTO\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T00:08:02.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWorkSchoolSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Repositories\\UnitOfWorkSchoolSQL.cs",
+              "RelativeDocumentMoniker": "..\\back\\Repositories\\UnitOfWorkSchoolSQL.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Repositories\\UnitOfWorkSchoolSQL.cs",
+              "RelativeToolTip": "..\\back\\Repositories\\UnitOfWorkSchoolSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T00:05:43.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Entities\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "..\\back\\Entities\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Entities\\SchoolContext.cs",
+              "RelativeToolTip": "..\\back\\Entities\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T00:03:05.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\back\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "..\\back\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:55:52.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepositorySQL.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Repositories\\BaseRepositorySQL.cs",
+              "RelativeDocumentMoniker": "..\\back\\Repositories\\BaseRepositorySQL.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\Repositories\\BaseRepositorySQL.cs",
+              "RelativeToolTip": "..\\back\\Repositories\\BaseRepositorySQL.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:55:38.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "back",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\back.csproj",
+              "RelativeDocumentMoniker": "..\\back\\back.csproj",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\back\\back.csproj",
+              "RelativeToolTip": "..\\back\\back.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T23:52:03.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\exam012024\\ViewModels\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\revisions\\exam\\exam012024\\ViewModels\\StudentModel.cs",
+              "RelativeToolTip": "ViewModels\\StudentModel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:27:24.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
